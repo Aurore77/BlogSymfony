@@ -1,4 +1,4 @@
-blog_symfony
+# Blog Symfony
 ============
 
-A Symfony project created on October 4, 2016, 2:15 pm.
+This repository is a test repository to create a blog.
